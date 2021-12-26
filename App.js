@@ -53,7 +53,7 @@ style={{height:Dimensions.get('window').height/2.5,}}>
 
 <Button rounded style={[styles.MenuButton,styles.ShadowButton,{shadowColor:'#111111',marginTop:20}]}>
 <Text style={styles.ButtonText}>
- Add New Car
+ Add New Car 
 </Text>
 </Button>
 </View >
